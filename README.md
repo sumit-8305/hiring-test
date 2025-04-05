@@ -130,7 +130,6 @@ npm run dev
 
 - Push your code to GitHub
 - Create a PR to this repo
-- Share the link with us
 
 ---
 
