@@ -108,12 +108,19 @@ npm run dev
 > We're not just testing code — we're testing **you**.
 
 ✅ Clean UI/UX
+
 ✅ Handles weird edge cases
+
 ✅ Good naming + folder structure
+
 ✅ Clean Git history
+
 ✅ Explains trade-offs in README
+
 ✅ Filters and sorts with URL params
+
 ✅ Goes beyond requirements
+
 
 > You are being judged on how you **think**, how you **work in a team**, and how you **handle ambiguity**.
 
